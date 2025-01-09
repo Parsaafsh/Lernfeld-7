@@ -346,6 +346,18 @@
             <mxPoint x="80" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GY3HH0PPxPcZLD8sV_lU-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GY3HH0PPxPcZLD8sV_lU-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1450" as="sourcePoint" />
+            <mxPoint x="380" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY3HH0PPxPcZLD8sV_lU-82" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GY3HH0PPxPcZLD8sV_lU-85" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1- First-Level Support Prozess&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1800" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
